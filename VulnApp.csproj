@@ -131,7 +131,6 @@
     <Compile Include="ScoreBoard.aspx.designer.cs">
       <DependentUpon>ScoreBoard.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Settings.cs" />
     <Compile Include="VulnService.asmx.cs">
       <DependentUpon>VulnService.asmx</DependentUpon>
       <SubType>Component</SubType>
